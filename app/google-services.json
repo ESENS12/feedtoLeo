@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "123022318661",
+    "firebase_url": "https://leo-feed.firebaseio.com",
+    "project_id": "leo-feed",
+    "storage_bucket": "leo-feed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123022318661:android:72055831d6913246",
+        "android_client_info": {
+          "package_name": "pet.esens.reo_feed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123022318661-ui491k9epav76q4pkace2s9a00qe0v9o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pet.esens.reo_feed",
+            "certificate_hash": "19accd914ec76a6e7d259194935f3d766978bc3e"
+          }
+        },
+        {
+          "client_id": "123022318661-idc866livc996havsi9uk3ie6mjbgdh0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVOGIcyBriX6XAQ42D25Yp8OaZduJ_3-I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123022318661-idc866livc996havsi9uk3ie6mjbgdh0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
