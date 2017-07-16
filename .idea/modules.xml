@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/REO-FEED.iml" filepath="$PROJECT_DIR$/REO-FEED.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/feedtoLeo.iml" filepath="$PROJECT_DIR$/feedtoLeo.iml" />
     </modules>
   </component>
 </project>
